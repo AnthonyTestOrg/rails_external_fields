@@ -18,7 +18,7 @@ Add this line to your application's Gemfile:
 gem "external_fields"
 ```
 
-And then execute:
+And then execute the following:
 
 ```
 $ bundle
